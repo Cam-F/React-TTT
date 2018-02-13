@@ -46,7 +46,10 @@ ol, ul {
 }
 
 .game {
-  display: flex;
+  position: fixed;
+  top: 3%;
+  left: 45%;
+  text-align: center;
   flex-direction: row;
 }
 
